@@ -21,4 +21,6 @@ We have learned a lot about coding and how to work as a team. Our passion for le
 
 What's next for Harmonic Undriven Motion Modelling Utility Software (HUMMUS):
 More coding and research on physics! The next step is our education will be university and possibly running competitions like this.
-# McGill_PhysicsHackathon2023_HUMMUS
+
+
+![GIF](animation.gif)
